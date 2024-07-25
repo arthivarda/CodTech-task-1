@@ -1,8 +1,13 @@
 Name: VARDA ARTHI
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT12DS2570
+
 Domain: JAVA PROGRAMMING
+
 Duration: JULY 1st, 2024 to SEPTEMBER 1st, 2024.
+
 Mentor: Neela Santhosh Kumar
 
 OVERVIEW OF THE PROJECT
