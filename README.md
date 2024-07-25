@@ -14,3 +14,4 @@ It create a Java program that acts as a basic calculator. It prompts the user to
 Output:
 Here, these are some sample outputs
 
+![Screenshot 2024-07-25 223425](https://github.com/user-attachments/assets/6bf20bd2-a6c7-4e2a-86f4-30d1af02d4a2)
